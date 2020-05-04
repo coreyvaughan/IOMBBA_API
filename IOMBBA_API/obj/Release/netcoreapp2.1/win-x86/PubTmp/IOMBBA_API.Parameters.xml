@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <parameter name="IIS Web Application Name" description="" value="IOMBBA" tags="IisApp">
-    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\corey\\OneDrive\\Documents\\University\\FINAL\ YEAR\\KV6003\ -\ INDIVIDUAL\ COMPUTING\ PROJECT\\PROJECT\\IOMBBA_API\\IOMBBA_API\\obj\\Release\\netcoreapp2\.1\\win-x86\\PubTmp\\Out\\$" />
-  </parameter>
-</parameters>
