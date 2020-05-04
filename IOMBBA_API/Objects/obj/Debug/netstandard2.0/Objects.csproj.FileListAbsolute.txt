@@ -1,0 +1,9 @@
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\bin\Debug\netstandard2.0\Objects.deps.json
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\bin\Debug\netstandard2.0\Objects.dll
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\bin\Debug\netstandard2.0\Objects.pdb
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\obj\Debug\netstandard2.0\Objects.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\obj\Debug\netstandard2.0\Objects.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\obj\Debug\netstandard2.0\Objects.AssemblyInfo.cs
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\obj\Debug\netstandard2.0\Objects.dll
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\obj\Debug\netstandard2.0\Objects.pdb
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\Objects\obj\Debug\netstandard2.0\Objects.csprojAssemblyReference.cache

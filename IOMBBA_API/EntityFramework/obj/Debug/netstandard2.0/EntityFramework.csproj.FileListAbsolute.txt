@@ -1,0 +1,12 @@
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\bin\Debug\netstandard2.0\EntityFramework.deps.json
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\bin\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\bin\Debug\netstandard2.0\EntityFramework.pdb
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\bin\Debug\netstandard2.0\Objects.dll
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\bin\Debug\netstandard2.0\Objects.pdb
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.csprojAssemblyReference.cache
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.AssemblyInfo.cs
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.csproj.CopyComplete
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.dll
+C:\Users\corey\OneDrive\Documents\University\FINAL YEAR\KV6003 - INDIVIDUAL COMPUTING PROJECT\PROJECT\IOMBBA_API\EntityFramework\obj\Debug\netstandard2.0\EntityFramework.pdb

@@ -1,0 +1,46 @@
+﻿** Highlights
+     Tables that will be rebuilt
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Competition] (Table)
+       [dbo].[Fixture] (Table)
+       [dbo].[Foul] (Table)
+       [dbo].[GameplayStat] (Table)
+       [dbo].[Member] (Table)
+       [dbo].[MemberTeam] (Table)
+       [dbo].[Period] (Table)
+       [dbo].[Shot] (Table)
+       [dbo].[Team] (Table)
+       [dbo].[User] (Table)
+       Default Constraint: unnamed constraint on [dbo].[Competition] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Fixture] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Foul] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[GameplayStat] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[MemberTeam] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Period] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Shot] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Shot] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Shot] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Shot] (Default Constraint)
+       Default Constraint: unnamed constraint on [dbo].[Team] (Default Constraint)
+       [dbo].[fk_competition_of_fixture] (Foreign Key)
+       [dbo].[fk_fixture_home_team] (Foreign Key)
+       [dbo].[fk_fixture_away_team] (Foreign Key)
+       [dbo].[fk_foul_stat_id] (Foreign Key)
+       [dbo].[fk_player_of_stat] (Foreign Key)
+       [dbo].[fk_gameplay_stat_period_number] (Foreign Key)
+       [dbo].[fk_team_of_member] (Foreign Key)
+       [dbo].[fk_member_of_team] (Foreign Key)
+       [dbo].[fk_game_number_of_period] (Foreign Key)
+       [dbo].[fk_shot_stat] (Foreign Key)
+       [dbo].[fk_user_account_member_id] (Foreign Key)
+
+** Supporting actions

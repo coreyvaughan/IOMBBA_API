@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "lIBwrETdUEA1VEPc9jeLrw2Nv1nKmzAHkrWaEUjvkj8LxvB1grnjih5AlDCFdfYBD1pjapa4iEv45AEzBGKeLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\corey\\OneDrive\\Documents\\University\\FINAL YEAR\\KV6003 - INDIVIDUAL COMPUTING PROJECT\\PROJECT\\IOMBBA_API\\Objects\\Objects.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\corey\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\corey\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\corey\\.nuget\\packages\\system.componentmodel.annotations\\4.7.0\\system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
